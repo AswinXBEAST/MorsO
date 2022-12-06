@@ -1,8 +1,6 @@
 import os
 import time
 from console.utils import set_title
-from tkinter import filedialog
-
 
 morse = {"a":"._","b":'-...',"c" : "_._.","d" : "_..","e" : ".","f" : ".._.","g" : "__.","h" : "....",
     "i" : "..","j" : ".___","k" : "_.-","l" : "._..","m" : "__","n" : "_.","o" : "___","p" : ".__.","q" : "__._",
